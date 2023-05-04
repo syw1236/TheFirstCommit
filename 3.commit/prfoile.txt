@@ -1,2 +1,2 @@
-email :
-gitID :
+email : syw1236@naver.com
+gitID : syw1236
